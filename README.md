@@ -1,5 +1,8 @@
 # MHP Challenge
 
+![Desktop Screenshot](./desktop.png)
+![Mobile Screenshot](./mobile.png)
+
 ## Prerequisites
 
 This project is built in a monorepo format. It uses Yarn 2 workspaces. The rest of this document assumes you have installed Docker and [asdf](https://asdf-vm.com/guide/getting-started.html) along with the node (`asdf plugin-add nodejs`) asdf plugin. 
