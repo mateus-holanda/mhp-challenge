@@ -1,0 +1,4 @@
+{
+  "ui/**/*.{ts,tsx}": ["yarn workspace @mhp/ui lint --fix", "yarn workspace @mhp/ui test related --run"],
+  "api/**/*.ts": ["yarn workspace @mhp/api lint --fix", "yarn workspace @mhp/api test related --run"]
+}
