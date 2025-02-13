@@ -1,7 +1,6 @@
 # MHP Challenge
 
-![Desktop Screenshot](./desktop.png)
-![Mobile Screenshot](./mobile.png)
+![Screenshot](./screenshot.png)
 
 ## Prerequisites
 
