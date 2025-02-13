@@ -72,3 +72,12 @@ $ yarn workspace @mhp/[app-name] add [package-name]
 5. Implement a detailed interactive map of the United States at the county level, enabling users to visually select their location instead of using a selector. Surely there are several libraries available for this purpose, such as [react-simple-maps](https://www.react-simple-maps.io/) or [react-usa-map](https://www.npmjs.com/package/react-usa-map)
 6. End-to-end testing using Cypress
 7. Better setup of Tailwind variables and the addition of utility classes to improve component styling performance
+
+## Note
+Just for the purpose of this project, and since the repo is private, if you're having problems fetching data from the Census.gov API, you can use the following `.env` with my personal Api Key.
+
+```env
+UI_BASE_URL="http://localhost:5173"
+API_BASE_URL="http://localhost:3000"
+CENSUS_API_KEY="79ca0a45ed3f80bc3a5e389fc4c53bf86e1da83f"
+```
