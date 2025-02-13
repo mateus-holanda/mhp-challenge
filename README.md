@@ -47,6 +47,8 @@ Start the API development server from the project root:
 $ yarn workspace @mhp/api dev
 ```
 
+A Swagger documentation of this API can be found at [http://localhost:3000/api/](http://localhost:3000/api#/)
+
 ### Running the UI
 
 Start the UI development server from the project root:
@@ -54,6 +56,8 @@ Start the UI development server from the project root:
 ```bash
 $ yarn workspace @mhp/ui dev
 ```
+
+The UI is usually set to be displayed at [http://localhost:5173/](http://localhost:5173/)
 
 ## Adding Dependencies
 
